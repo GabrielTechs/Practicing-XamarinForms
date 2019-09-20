@@ -10,7 +10,7 @@ namespace ClassExercices.ViewModels
 {
     public class ScreenOrientationPageViewModel : INotifyPropertyChanged
     {
-        public string txtScreenOrientation { get; set; }
+        public string ScreenOrientationtxt { get; set; }
         public ScreenOrientationPageViewModel()
         {
             IScreenOrientation service = DependencyService.Get<IScreenOrientation>();
