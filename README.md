@@ -12,4 +12,6 @@ This page have a centralized label where you can see the device orientation.
 
 ## CustomsEntryPage
 In this page we can see 3 entries: a default entry, a renderized entry and an entry with focus effect.
-<p align="center"><img  width="200" src="Login.png"/></p>
+<p align="center"><img  width="200" src="CustomizedEntries.png"/></p>
+Here we can see the focus effect:
+<p align="center"><img  width="200" src="FocusedEntry.png"/></p>
